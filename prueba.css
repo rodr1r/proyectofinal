@@ -1,0 +1,29 @@
+<link rel="stylesheet" type="text/css" href="hola.html">
+h2 {
+    width: 175px;
+}   
+h1 {
+    width: 200px;
+}
+h3 {
+    width: 150px;
+}
+h4{
+    width: 125px;
+}
+h5{
+    width: 100px;
+}
+
+#letra {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+   font-size: 14px;
+}
+
+h1 {
+    width:50px;
+    }
+    
